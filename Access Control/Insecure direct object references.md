@@ -9,4 +9,4 @@ A look at the HTTP history shows that the files are stored incrementally and the
 
 Since the filename 1.txt does not appear in the http history, it is reasonable to give it a try. The response shows the password in the chat history, which probably comes from Carlos.  
 
-![grafik](https://user-images.githubusercontent.com/62068604/233855051-5dc09ada-fddf-47f1-be4c-024e14b7e9a4.png)
+![grafik](https://user-images.githubusercontent.com/62068604/233855136-08876a32-aa9f-4a37-97a0-62c99655270a.png)
