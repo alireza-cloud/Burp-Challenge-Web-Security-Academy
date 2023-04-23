@@ -3,4 +3,7 @@ Get carlos userId by accessing his blog post from the forum
 
 Line 722 consists carlos userId. Change your userId in the line 726 with carlos userId and access his api key  
 
-![grafik](https://user-images.githubusercontent.com/62068604/233854144-7ee0b6ea-184d-4d36-92c3-121ad1f764c2.png)
+![grafik](https://user-images.githubusercontent.com/62068604/233854144-7ee0b6ea-184d-4d36-92c3-121ad1f764c2.png)  
+
+![grafik](https://user-images.githubusercontent.com/62068604/233854201-78a137f6-4179-47a5-919a-f0156daa7d26.png)
+
