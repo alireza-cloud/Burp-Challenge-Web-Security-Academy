@@ -2,7 +2,7 @@ check the response while changing your email address:
 
 ![grafik](https://user-images.githubusercontent.com/62068604/233859529-0ea91153-b1ff-435c-9cbc-557d7b143b10.png)  
 
-add the ***roleid*** parameter with the value of 2 to it gain admin privileges:  
+add the ***roleid*** parameter with the value of 2 to the request to gain admin privileges:  
 
 ![grafik](https://user-images.githubusercontent.com/62068604/233859541-39221871-cac9-4f61-bafc-e757aa3830b5.png)  
 
