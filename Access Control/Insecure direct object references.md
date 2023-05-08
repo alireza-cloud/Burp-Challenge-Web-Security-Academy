@@ -1,4 +1,4 @@
-By clicking on ***View transcript*** you can download you chat history.  
+By clicking on ***View transcript*** you can download your chat history.  
 
 ![grafik](https://user-images.githubusercontent.com/62068604/233855066-19a10ab3-cb1b-4a73-93d5-d76945b45f18.png)  
 
